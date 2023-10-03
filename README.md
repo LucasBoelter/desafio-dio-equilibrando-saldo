@@ -1,4 +1,4 @@
-# desafio-dio-equilibrando-saldo
+# Desafio Dio Equilibrando Saldo
 Repositorio destinado ao desafio equilibrando o saldo do curso de Java pela DIO
 
 ## Descrição
@@ -9,7 +9,9 @@ Informação: As transações de depósito e retirada devem ser tratadas como va
 
 ## Entrada
 saldoAtual: um número decimal representando o saldo atual da conta bancária.
+
 valorDeposito: um número decimal representando o valor a ser depositado na conta.
+
 valorRetirada: um número decimal representando o valor a ser retirado da conta.
 
 Regra de Formatação: Considere apenas uma casa decimal para esse desafio.
